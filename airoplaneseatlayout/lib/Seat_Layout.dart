@@ -258,7 +258,7 @@ class _SeatLayoutClassState extends State<SeatLayoutClass> {
                                             Expanded(
                                               child: Padding(
                                                 padding: const EdgeInsets.only(
-                                                    right: 8.0, bottom: 30),
+                                                    right: 8.0, bottom:30,top: 5),
                                                 child: Container(
                                                   alignment: Alignment.topRight,
                                                   decoration: BoxDecoration(
